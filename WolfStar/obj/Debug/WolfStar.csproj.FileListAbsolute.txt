@@ -1,0 +1,7 @@
+D:\Programming\C#\WolfStar\WolfStar\bin\Debug\WolfStar.exe.config
+D:\Programming\C#\WolfStar\WolfStar\obj\Debug\WolfStar.csprojResolveAssemblyReference.cache
+D:\Programming\C#\WolfStar\WolfStar\bin\Debug\WolfStar.exe
+D:\Programming\C#\WolfStar\WolfStar\bin\Debug\WolfStar.pdb
+D:\Programming\C#\WolfStar\WolfStar\bin\Debug\Ionic.Zip.dll
+D:\Programming\C#\WolfStar\WolfStar\obj\Debug\WolfStar.exe
+D:\Programming\C#\WolfStar\WolfStar\obj\Debug\WolfStar.pdb
